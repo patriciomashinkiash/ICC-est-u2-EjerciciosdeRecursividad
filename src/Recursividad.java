@@ -46,7 +46,6 @@ public class Recursividad {
     public int sumaDigitos(int numero) {
         System.out.println("Calculando la suma de los digitos de: " + numero);
         if (numero < 10) {
-            System.out.println("Caso base alcanzado el factorial de" + numero + " es " + numero);
             return numero;
         }
 

@@ -8,7 +8,7 @@ public class App {
 
         System.out.println("Resultado final: " + rec.potencia(5, 3) + "\n");
 
-        System.out.println("Resultado final : " + rec.sumaDigitos(234) + "\n");
+        System.out.println("Resultado final : " + rec.sumaDigitos(456) + "\n");
 
     }
 }
